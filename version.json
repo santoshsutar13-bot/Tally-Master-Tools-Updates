@@ -1,0 +1,11 @@
+{
+  "latest_version": "40.0.0",
+  "release_date": "2026-07-08",
+  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v40.0.0/Tally-Master-Tools_Setup.exe",
+  "changelog": [
+    "Initial release of Tally-Master-Tools version 40.0.0",
+    "Static application and folder naming convention",
+    "Clean background auto-updater with progress display",
+    "Silent clean uninstallation of previous setups"
+  ]
+}
