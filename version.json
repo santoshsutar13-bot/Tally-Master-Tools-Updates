@@ -1,8 +1,17 @@
 {
   "latest_version": "40.0.9",
-  "release_date": "2026-07-14",
+  "release_date": "2026-07-15",
   "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v40.0.9/Tally-Master-Tools_Setup.exe",
   "changelog": [
-    "Bug fixes and performance improvements."
+    "What\u2019s New in This Version",
+    "Smoother Activation Experience",
+    "Auto-Populated Details: When installing the app on a non-licensed machine for the first time, the Activation Window will now automatically populate your Machine ID and required details\u2014no more manual copying and pasting to get started!",
+    "Flexible Support & Activation Channels",
+    "We\u2019ve added flexible options to help you send your activation requests instantly using your preferred communication tool:",
+    "WhatsApp: Launch the standard WhatsApp Desktop app (whatsapp://) or open WhatsApp Web directly in your default browser.",
+    "Email: Open your local mail client (like Outlook) via mailto:, or jump straight to a pre-composed message screen in Gmail Web or Outlook Web.",
+    "Smart Fallback: If you prefer a different method, the app automatically copies your activation details (Email + Machine ID) to your clipboard for quick manual pasting.",
+    "Bug Fixes & Performance Improvements",
+    "Under-the-hood optimizations for a faster, more stable experience."
   ]
 }
