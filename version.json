@@ -1,27 +1,8 @@
 {
-  "latest_version": "40.0.29",
-  "release_date": "2026-07-21",
-  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v40.0.29/Tally-Master-Tools_Setup.exe",
+  "latest_version": "40.0.30",
+  "release_date": "2026-07-23",
+  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v40.0.30/Tally-Master-Tools_Setup.exe",
   "changelog": [
-    "\ud83d\ude80 Application Experience & Activation Updates",
-    "Smoother Activation Experience",
-    "Auto-Populated Details: When installing the app on a non-licensed machine for the first time, the Activation Window now automatically populates your Machine ID and required details\u2014eliminating manual copying and pasting.",
-    "Flexible Support & Activation Channels",
-    "Send your activation requests instantly using your preferred communication tool:",
-    "\ud83d\udcac WhatsApp: Launches the standard WhatsApp Desktop app (whatsapp://) or opens WhatsApp Web directly in your default browser.",
-    "\u2709\ufe0f Email: Opens your local mail client (like Outlook) via mailto:, or routes you directly to a pre-composed message screen in Gmail Web or Outlook Web.",
-    "\ud83d\udccb Smart Fallback: Copies your activation details (Email + Machine ID) to your clipboard automatically for quick manual pasting if you prefer a different method.",
-    "Interface & Performance Enhancements",
-    "\ud83d\udd14 Notification Log: A new bell icon is located next to the \ud83c\udf13 Mode selector in the top-right bar. Click it to open a persistent log of your notifications.",
-    "\u2699\ufe0f Under-the-Hood Optimizations: General bug fixes and performance improvements for a faster, more stable experience.",
-    "\ud83d\udee0\ufe0f New Features by Tab",
-    "1. Masters Tab",
-    "\ud83d\udd21 Case Converter (Ledgers/Items): Batch convert the casing (upper, lower, or title case) of Ledgers and Stock Items in Tally Prime.",
-    "\ud83d\udc64 Smart Address Book: View, filter, and export party address books, as well as print mailing envelopes.",
-    "2. Invoices Tab",
-    "\ud83d\udd04 Voucher Numbering & Type Tools: Convert voucher numbering settings from Auto to Manual (while preserving existing numbers) and bulk change voucher types.",
-    "\ud83d\udcc4 Bulk PDF Invoice Generator: Fetch sales vouchers, set custom headers, add footer terms or diagonal watermarks, and batch export them as individual or merged PDFs.",
-    "3. Universal Grid Tools",
-    "\ud83d\udda8\ufe0f Universal PDF Export: Right-click on any data grid or table (ttk.Treeview) anywhere in the application to access the new Export to PDF... option in the context menu."
+    "Bug fixes and performance improvements."
   ]
 }
