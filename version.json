@@ -1,8 +1,26 @@
 {
-  "latest_version": "40.0.30",
-  "release_date": "2026-07-23",
-  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v40.0.30/Tally-Master-Tools_Setup.exe",
+  "latest_version": "40.0.31",
+  "release_date": "2026-07-25",
+  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v40.0.31/Tally-Master-Tools_Setup.exe",
   "changelog": [
-    "Bug fixes and performance improvements."
+    "\ud83d\ude80 What's New: \u26a1 Scalability & Template Upgrades",
+    "\ud83d\udcc4 Enhanced Voucher & Masters Template (Voucher_Masters_Template.xlsx)",
+    "100,000+ Transaction Support: Scale your data imports effortlessly with",
+    "drastically expanded row capacity to process massive volumes without",
+    "performance slowdowns.",
+    "\ud83d\udd12 Locked Header Integrity: Core header titles and merged cells (Rows 1 & 2) are",
+    "fully protected to prevent accidental editing, deletion, or formatting",
+    "breaks.",
+    "\ud83d\udd3d Filter & Sort Arrows: Every column header in Row 2 features clickable filter",
+    "dropdowns, allowing you to instantly sort and filter by Date, Voucher Type,",
+    "Ledger Name, Amount,",
+    "\ud83d\ude80 High-Speed Batch Processing",
+    "2K Direct Posting Batches: Direct live-posting now processes in optimal",
+    "2,000-record chunks for speed and memory efficiency.",
+    "10K XML Export Batches: Export and save large datasets faster than ever,",
+    "handling up to 10,000 records per batch when generating XMLs.",
+    "\ud83d\udee0 General Maintenance",
+    "Bug Fixes & Tweaks: Miscellaneous stability improvements and under-the-hood",
+    "performance optimizations."
   ]
 }
