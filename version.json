@@ -1,20 +1,8 @@
 {
-  "latest_version": "40.0.33",
-  "release_date": "2026-07-30",
-  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v40.0.33/Tally-Master-Tools_Setup.exe",
+  "latest_version": "40.0.34",
+  "release_date": "2026-08-01",
+  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v40.0.34/Tally-Master-Tools_Setup.exe",
   "changelog": [
-    "\u26a1 Scalability & Excel Template Upgrades",
-    "\ud83d\udcc4 Enhanced Voucher & Masters Template (Voucher_Masters_Template.xlsx)",
-    "100,000+ Transaction Support: Scale your imports effortlessly with expanded capacity built to handle massive datasets without performance slowdowns.",
-    "\ud83d\udd12 Intelligent Sheet Protection: Header titles and merged cells (Rows 1 & 2) are locked against accidental editing while keeping everyday Excel features completely active:",
-    "\ud83d\udd3d Filter & Sort Arrows: Clickable filter dropdowns on every column header in Row 2 let you filter by Date, Voucher Type, Ledger Name, Amount, and more.",
-    "\ud83d\udccf Resizable Columns & Rows: Widths and heights can be adjusted freely.",
-    "\u2795 Insert & Delete Rows/Columns: Full support for Ctrl + + and Ctrl + - shortcuts.",
-    "\u267e\ufe0f Unlocked Data Entry: Rows 3 and beyond, as well as extra columns, remain 100% unlocked with zero recovery prompts or entry limits.",
-    "\ud83d\ude80 High-Performance Processing Engines",
-    "2K Direct Posting Batches: Direct live-posting processes in optimal 2,000-record chunks for maximum speed and stability.",
-    "10K XML Export Batches: XML generation handles up to 10,000 records per batch for lightning-fast file saving.",
-    "\ud83d\udee0\ufe0f General Maintenance",
-    "Bug Fixes & Optimizations: General under-the-hood stability tweaks for smoother overall operation."
+    "Bug fixes and performance improvements."
   ]
 }
