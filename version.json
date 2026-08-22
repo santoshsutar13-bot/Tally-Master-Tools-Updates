@@ -1,9 +1,9 @@
 {
-  "latest_version": "40.0.58",
-  "release_date": "2026-08-21",
-  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v40.0.58/Tally-Master-Tools_Setup.exe",
+  "latest_version": "40.0.59",
+  "release_date": "2026-08-22",
+  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v40.0.59/Tally-Master-Tools_Setup.exe",
   "changelog": [
     "Bug fixes and performance improvements.",
-    "Fixes some CANARA Bank PDF laout issues in PDF Bank Converter Engine"
+    "Fixes some CANARA Bank PDF layout issues in PDF Bank Converter Engine"
   ]
 }
