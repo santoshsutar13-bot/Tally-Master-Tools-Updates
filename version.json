@@ -1,10 +1,14 @@
 {
-  "latest_version": "40.0.60",
-  "release_date": "2026-08-26",
-  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v40.0.60/Tally-Master-Tools_Setup.exe",
+  "latest_version": "41.0.1",
+  "release_date": "2026-09-02",
+  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v41.0.1/Tally-Master-Tools_Setup.exe",
   "changelog": [
-    "Bug fixes and performance improvements.",
+    "\u2728 Newly Introduced Offline Invoicing & Commercial ERP Suite (8 Document Types)",
+    "\ud83c\udfe2 Added Godown Management & Inter-Warehouse Stock Transfer Challans",
+    "\ud83d\udcf1 Added Dynamic UPI QR Codes & Instant WhatsApp/Email Invoice Sharing",
+    "\ud83d\udcca Added GSTR-1 GST Portal JSON Exporter & 10 Commercial Reports",
     "Fixes some CANARA Bank PDF layout issues in PDF Bank Converter Engine",
-    "Added support of Vidya Sahakar Bank in PDF Bank Converter Engine"
+    "Added support of Vidya Sahakar Bank in PDF Bank Converter Engine",
+    "Bug fixes and performance improvements."
   ]
 }
