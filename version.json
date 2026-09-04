@@ -1,7 +1,7 @@
 {
-  "latest_version": "41.0.5",
+  "latest_version": "41.0.6",
   "release_date": "2026-09-04",
-  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v41.0.5/Tally-Master-Tools_Setup.exe",
+  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v41.0.6/Tally-Master-Tools_Setup.exe",
   "changelog": [
     "\u2728 Fixed Offline DB Sharing buttons (WhatsApp Desktop/Web, Email, Export & Folder) in compiled executable",
     "\ud83d\udee0\ufe0f Enhanced standalone SQLite export engine with clean WAL checkpointing"
