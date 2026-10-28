@@ -1,8 +1,18 @@
 {
-  "latest_version": "41.0.19",
+  "latest_version": "41.0.20",
   "release_date": "2026-10-28",
-  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v41.0.19/Tally-Master-Tools_Setup.exe",
+  "download_url": "https://github.com/santoshsutar13-bot/Tally-Master-Tools-Updates/releases/download/v41.0.20/Tally-Master-Tools_Setup.exe",
   "changelog": [
-    "Bug fixes and performance improvements."
+    "Bug fixes and performance improvements.",
+    "\u2728 Added Journal Voucher (JV) entry & printing with Dr/Cr flow banner and quad signatures",
+    "\u2728 Added Monochrome Laser (Black Toner) theme for high-contrast ink-saving voucher prints",
+    "\u2728 Added 4 selectable Tax Invoice bottom layouts including Classic Tally Prime Full-Page Grid",
+    "\ud83c\udfa8 Redesigned Payment & Receipt Hub with Modern 3-Section Card and Classic Linear layouts",
+    "\ud83c\udfa8 Enhanced Stock Master W.E.F. date with User-Choice and Company Beginning Date auto-fallback",
+    "\u26a1 Added live Indian Rupee words preview and zero-click dynamic autocomplete in voucher entry",
+    "\ud83d\udda8\ufe0f Added default full-screen print preview with automatic width-fit zoom",
+    "\ud83d\udc1b Fixed company logo logic to strictly display custom configured logos without default fallbacks",
+    "\ud83d\udc1b Fixed layout selector dropdown width for complete text visibility",
+    "\ud83d\udd12 Enhanced database connection management and Windows SQLite file lock protection"
   ]
 }
